@@ -4,13 +4,13 @@
 
 ⚙️ **Industrial Engineer**
 
-💻 Computer — I enjoy working with data, technology and analytics to solve business problems.
+💻 I enjoy working with data, technology and analytics to solve business problems.
 
-✏️ Pencil — I enjoy turning ideas, analysis and experience into clear and practical solutions.
+✏️ I enjoy turning ideas, analysis and experience into clear and practical solutions.
 
-👓 Eyeglasses — I'm curious and continuously learning about Data, AI, Salesforce and Business Intelligence.
+👓 I'm curious and continuously learning about Data, AI, Salesforce and Business Intelligence.
 
-👨‍👩‍👧 Family — Family keeps me motivated, grounded and focused on what really matters.
+👨‍👩‍👧 Family keeps me motivated, grounded and focused on what really matters.
 
 ## 🛠️ Tech Stack
 
