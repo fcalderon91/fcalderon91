@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🧑‍💼 About me
+
 🎓 **MSc in Marketing & Statistics**
 
 ⚙️ **Industrial Engineer**
@@ -59,3 +61,18 @@ Last Updated: Friday, October 9th, 2026, 2:37:33 PM
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscocalderonpozo/)
+
+---
+
+## 🙏 Thanks for Visiting My Profile!
+
+✨ Thanks for stopping by! Feel free to explore my repositories and connect with me.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fcalderon91&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  💡 *Turning Data into Insights. Insights into Impact.*
+</p>
+
