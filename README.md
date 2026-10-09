@@ -12,6 +12,13 @@
 
 👨‍👩‍👧 Family keeps me motivated, grounded and focused on what really matters.
 
+## :zap:Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 ## 🛠️ Tech Stack
 
 ### 📊 Data & Analytics
@@ -46,4 +53,3 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscocalderonpozo/)
-
