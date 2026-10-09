@@ -17,16 +17,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/2837031b23035e8acd8091936745eed378273626)
-2. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/8516dcdccbc149ea2c8e981374b931e1a80a9c8a)
-3. 🔀 Merged PR in a private repository
-4. 🔀 Merged PR in a private repository
-5. 📥 Opened PR in a private repository
-6. 📥 Opened PR in a private repository
-7. ⭐ Starred [cli/cli](https://github.com/cli/cli)
-8. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/48717b056a2c177dff7b17331c32f25e1ae6df6b)
-9. 🎉 Created a new branch developer01 in a private repository
-10. 📝 Committed to main in a private repository
+1. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/9532b818ee5aeea0d14de62e0c0ba836880f4a2c)
+2. 📝 Committed to main in a private repository
+3. 🚀 Published release v0.1.0 in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/releases/tag/v0.1.0)
+4. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/2837031b23035e8acd8091936745eed378273626)
+5. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/8516dcdccbc149ea2c8e981374b931e1a80a9c8a)
+6. 🔀 Merged PR in a private repository
+7. 🔀 Merged PR in a private repository
+8. 📥 Opened PR in a private repository
+9. 📥 Opened PR in a private repository
+10. ⭐ Starred [cli/cli](https://github.com/cli/cli)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
