@@ -16,16 +16,8 @@
 
 ## :zap:Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cli/cli](https://github.com/cli/cli)<br>
-2. ⬆️ Pushed undefined commit(s) to [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91)<br>
-3. ⬆️ Pushed undefined commit(s) to [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91)<br>
-4. ⭐ Starred [platzi/git-github](https://github.com/platzi/git-github)<br>
-5. 🔱 Forked [fcalderon91/git-github](https://github.com/fcalderon91/git-github) from [platzi/git-github](https://github.com/platzi/git-github)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last updated: 09/10/2026 20:33:22
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
 
