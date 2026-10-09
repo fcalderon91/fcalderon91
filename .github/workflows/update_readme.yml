@@ -1,5 +1,5 @@
 
-name: Update Profile Recent Activity
+name: Update GitHub Activity
 
 on:
   schedule:
@@ -11,14 +11,16 @@ permissions:
 
 jobs:
   update-activity:
-    name: Update Recent Activity
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Update Recent Activity
-        uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.MIPRIMERREPO_PROFILE_ACTIVITY }}
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: "fcalderon91"
+          GITHUB_TOKEN: ${{ secrets.PROFILE_RECENT_ACTIVITY_TOKEN }}
+          EVENT_LIMIT: 10
+          README_PATH: README.md
+          HIDE_DETAILS_ON_PRIVATE_REPOS: false
