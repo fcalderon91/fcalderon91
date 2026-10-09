@@ -62,8 +62,6 @@ Last Updated: Friday, October 9th, 2026, 2:37:33 PM
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscocalderonpozo/)
 
----
-
 ## 🙏 Thanks for Visiting My Profile!
 
 ✨ Thanks for stopping by! Feel free to explore my repositories and connect with me.
