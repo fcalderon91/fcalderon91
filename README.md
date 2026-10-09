@@ -17,16 +17,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/1b9a912d6ccaef641da7b743db22b6d0cf7e0b2e)
-2. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/d2d07ad9b8e02a89dfc5a147da878522989d52a9)
-3. 🗑️ Deleted a branch fcalderon91/task16 in a private repository
-4. 📝 Committed to main in a private repository
-5. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/a0c2e7a8aba48fb4c568040c6816f392abc19c5a)
-6. 📝 Committed to main in [fcalderon91/fcalderon91.github.io](https://github.com/fcalderon91/fcalderon91.github.io/commit/36fd73a43388a65f668af310727d46b36a5307ef)
-7. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/9532b818ee5aeea0d14de62e0c0ba836880f4a2c)
-8. 📝 Committed to main in a private repository
-9. 🚀 Published release v0.1.0 in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/releases/tag/v0.1.0)
-10. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/2837031b23035e8acd8091936745eed378273626)
+1. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/a779fb03a1311bbf2782a230aa437fc45e435130)
+2. 🎉 Created a new branch main in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/tree/main)
+3. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/1b9a912d6ccaef641da7b743db22b6d0cf7e0b2e)
+4. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/d2d07ad9b8e02a89dfc5a147da878522989d52a9)
+5. 🗑️ Deleted a branch fcalderon91/task16 in a private repository
+6. 📝 Committed to main in a private repository
+7. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/a0c2e7a8aba48fb4c568040c6816f392abc19c5a)
+8. 📝 Committed to main in [fcalderon91/fcalderon91.github.io](https://github.com/fcalderon91/fcalderon91.github.io/commit/36fd73a43388a65f668af310727d46b36a5307ef)
+9. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/9532b818ee5aeea0d14de62e0c0ba836880f4a2c)
+10. 📝 Committed to main in a private repository
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
