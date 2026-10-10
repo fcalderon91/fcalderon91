@@ -6,12 +6,9 @@
 
 ⚙️ **Industrial Engineer**
 
-💻 I enjoy working with data, technology and analytics to solve business problems.
-
-✏️ I enjoy turning ideas, analysis and experience into clear and practical solutions.
-
-👓 I'm curious and continuously learning about Data, AI, Salesforce and Business Intelligence.
-
+💻 I enjoy working with data, technology and analytics to solve business problems.<br>
+✏️ I enjoy turning ideas, analysis and experience into clear and practical solutions.<br>
+👓 I'm curious and continuously learning about Data, AI, Salesforce and Business Intelligence.<br>
 👨‍👩‍👧 Family keeps me motivated, grounded and focused on what really matters.
 
 ## :zap:Recent Activity
@@ -62,7 +59,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscocalderonpozo/)
+[<img src="./assets/social/linkedin.png"/>][linkedin]
 
 ## 🙏 Thanks for Visiting My Profile!
 
@@ -76,3 +73,4 @@
   💡 *Turning Data into Insights. Insights into Impact.*
 </p>
 
+[linkedin]: https://www.linkedin.com/in/franciscocalderonpozo/
