@@ -66,7 +66,7 @@
 ✨ Thanks for stopping by! Feel free to explore my repositories and connect with me.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fcalderon91&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://views-counter.vercel.app/badge?pageId=fcalderon91%2Ffcalderon91&label=Profile%20Views&leftColor=21262D&rightColor=0A66C2" alt="Profile Views" />
 </p>
 
 <p align="center">
