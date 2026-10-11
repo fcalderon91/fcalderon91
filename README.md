@@ -14,16 +14,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/3bd3a5e9d9aeb6b5b230825173cc12c478cdab75)
-2. 🎉 Created a new branch main in [Calderon-Analytics-Lab/.github](https://github.com/Calderon-Analytics-Lab/.github/tree/main)
-3. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/2a41f2a413a69b6f68fef83fe1752808868c72d0)
-4. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/d1d1100afdf400f15ecfab102816869b3e9d597e)
-5. 📝 Committed to main in [fcalderon91/fcalderon91.github.io](https://github.com/fcalderon91/fcalderon91.github.io/commit/f9a276891994cdd676baf03308005dd74b5ab757)
-6. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/07bf91377e664f2390dc89b6161df919ea749213)
-7. 📝 Committed to main in a private repository
-8. 📝 Committed to fcalderon91/task16 in a private repository
-9. 🎉 Created a new branch fcalderon91/task15 in a private repository
-10. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/024adb2a071f3e1c9e4e42b0819187e7d130ab53)
+1. 📝 Committed to developer01 in a private repository
+2. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/3bd3a5e9d9aeb6b5b230825173cc12c478cdab75)
+3. 🎉 Created a new branch main in [Calderon-Analytics-Lab/.github](https://github.com/Calderon-Analytics-Lab/.github/tree/main)
+4. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/2a41f2a413a69b6f68fef83fe1752808868c72d0)
+5. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/d1d1100afdf400f15ecfab102816869b3e9d597e)
+6. 📝 Committed to main in [fcalderon91/fcalderon91.github.io](https://github.com/fcalderon91/fcalderon91.github.io/commit/f9a276891994cdd676baf03308005dd74b5ab757)
+7. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/07bf91377e664f2390dc89b6161df919ea749213)
+8. 📝 Committed to main in a private repository
+9. 📝 Committed to fcalderon91/task16 in a private repository
+10. 🎉 Created a new branch fcalderon91/task15 in a private repository
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
