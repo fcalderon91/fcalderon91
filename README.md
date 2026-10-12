@@ -14,16 +14,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/43915de4a2bfca0046e3fd05a2eae9f98ac838ea)
-2. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/4fa02abcbafae2146aceb1270151e3c444c2dac8)
-3. 📝 Committed to main in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/commit/cdb6d4e6d1052060fc53ca3c8d386d7bb6e73fef)
-4. 🗑️ Deleted a branch fcalderon91/task15 in a private repository
-5. 🎉 Created a new branch main in a private repository
-6. 📝 Committed to developer01 in a private repository
-7. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/3bd3a5e9d9aeb6b5b230825173cc12c478cdab75)
-8. 🎉 Created a new branch main in [Calderon-Analytics-Lab/.github](https://github.com/Calderon-Analytics-Lab/.github/tree/main)
-9. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/2a41f2a413a69b6f68fef83fe1752808868c72d0)
-10. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/d1d1100afdf400f15ecfab102816869b3e9d597e)
+1. 🎉 Created a new branch main in a private repository
+2. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/43915de4a2bfca0046e3fd05a2eae9f98ac838ea)
+3. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/4fa02abcbafae2146aceb1270151e3c444c2dac8)
+4. 📝 Committed to main in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/commit/cdb6d4e6d1052060fc53ca3c8d386d7bb6e73fef)
+5. 🗑️ Deleted a branch fcalderon91/task15 in a private repository
+6. 🎉 Created a new branch main in a private repository
+7. 📝 Committed to developer01 in a private repository
+8. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/3bd3a5e9d9aeb6b5b230825173cc12c478cdab75)
+9. 🎉 Created a new branch main in [Calderon-Analytics-Lab/.github](https://github.com/Calderon-Analytics-Lab/.github/tree/main)
+10. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/2a41f2a413a69b6f68fef83fe1752808868c72d0)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
