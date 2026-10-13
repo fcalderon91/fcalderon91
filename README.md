@@ -56,6 +56,7 @@
 
 ![Agentforce](https://img.shields.io/badge/Agentforce-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ## 📫 Let's Connect
 
