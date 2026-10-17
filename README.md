@@ -14,16 +14,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/370eccdee5fde741b996f04a5426fe5f95d1bdec)
-2. 🎉 Created a new branch main in a private repository
-3. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/43915de4a2bfca0046e3fd05a2eae9f98ac838ea)
-4. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/4fa02abcbafae2146aceb1270151e3c444c2dac8)
-5. 📝 Committed to main in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/commit/cdb6d4e6d1052060fc53ca3c8d386d7bb6e73fef)
-6. 🗑️ Deleted a branch fcalderon91/task15 in a private repository
-7. 🎉 Created a new branch main in a private repository
-8. 📝 Committed to developer01 in a private repository
-9. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/3bd3a5e9d9aeb6b5b230825173cc12c478cdab75)
-10. 🎉 Created a new branch main in [Calderon-Analytics-Lab/.github](https://github.com/Calderon-Analytics-Lab/.github/tree/main)
+1. 🔀 Merged PR #2 in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/pull/2)
+2. 📥 Opened PR #2 in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/pull/2)
+3. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/370eccdee5fde741b996f04a5426fe5f95d1bdec)
+4. 🎉 Created a new branch main in a private repository
+5. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/43915de4a2bfca0046e3fd05a2eae9f98ac838ea)
+6. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/4fa02abcbafae2146aceb1270151e3c444c2dac8)
+7. 📝 Committed to main in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/commit/cdb6d4e6d1052060fc53ca3c8d386d7bb6e73fef)
+8. 🗑️ Deleted a branch fcalderon91/task15 in a private repository
+9. 🎉 Created a new branch main in a private repository
+10. 📝 Committed to developer01 in a private repository
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
