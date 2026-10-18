@@ -14,16 +14,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to update-game in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/commit/ada09ebe08c6bc6b9fb2bd08185b55eb751c0dc7)
-2. 🔀 Merged PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
-3. 🔎 Created PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreview-5562525718)
-4. 🗣 Commented on a review of PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreviewcomment-4306649884)
-5. 🔎 Created PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreview-5562519701)
-6. 👤 Assigned PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
-7. 📥 Opened PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
-8. 🎉 Created a new branch main in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/tree/main)
-9. 🗑️ Deleted a branch my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github)
-10. 📝 Committed to my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/commit/d89ed441d7f3cd5fb8e36514f876b892542cc8c5)
+1. 🗣 Commented on issue #1 in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/issues/1#issuecomment-6251772615)
+2. 🔀 Merged PR #2 in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/pull/2)
+3. 📥 Opened PR #2 in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/pull/2)
+4. 📝 Committed to update-game in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/commit/ada09ebe08c6bc6b9fb2bd08185b55eb751c0dc7)
+5. 🔀 Merged PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
+6. 🔎 Created PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreview-5562525718)
+7. 🗣 Commented on a review of PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreviewcomment-4306649884)
+8. 🔎 Created PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreview-5562519701)
+9. 👤 Assigned PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
+10. 📥 Opened PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
