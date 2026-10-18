@@ -14,16 +14,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
-2. 🔎 Created PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreview-5562525718)
-3. 🗣 Commented on a review of PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreviewcomment-4306649884)
-4. 🔎 Created PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreview-5562519701)
-5. 👤 Assigned PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
-6. 📥 Opened PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
-7. 🎉 Created a new branch main in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/tree/main)
-8. 🗑️ Deleted a branch my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github)
-9. 📝 Committed to my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/commit/d89ed441d7f3cd5fb8e36514f876b892542cc8c5)
-10. 🔀 Merged PR #2 in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/pull/2)
+1. 📝 Committed to update-game in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/commit/ada09ebe08c6bc6b9fb2bd08185b55eb751c0dc7)
+2. 🔀 Merged PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
+3. 🔎 Created PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreview-5562525718)
+4. 🗣 Commented on a review of PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreviewcomment-4306649884)
+5. 🔎 Created PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2#pullrequestreview-5562519701)
+6. 👤 Assigned PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
+7. 📥 Opened PR #2 in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/pull/2)
+8. 🎉 Created a new branch main in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/tree/main)
+9. 🗑️ Deleted a branch my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github)
+10. 📝 Committed to my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/commit/d89ed441d7f3cd5fb8e36514f876b892542cc8c5)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
