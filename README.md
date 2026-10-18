@@ -14,16 +14,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/commit/d89ed441d7f3cd5fb8e36514f876b892542cc8c5)
-2. 🔀 Merged PR #2 in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/pull/2)
-3. 📥 Opened PR #2 in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/pull/2)
-4. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/370eccdee5fde741b996f04a5426fe5f95d1bdec)
-5. 🎉 Created a new branch main in a private repository
-6. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/43915de4a2bfca0046e3fd05a2eae9f98ac838ea)
-7. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/4fa02abcbafae2146aceb1270151e3c444c2dac8)
-8. 📝 Committed to main in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/commit/cdb6d4e6d1052060fc53ca3c8d386d7bb6e73fef)
-9. 🗑️ Deleted a branch fcalderon91/task15 in a private repository
-10. 🎉 Created a new branch main in a private repository
+1. 🎉 Created a new branch main in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/tree/main)
+2. 🗑️ Deleted a branch my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github)
+3. 📝 Committed to my-first-branch in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/commit/d89ed441d7f3cd5fb8e36514f876b892542cc8c5)
+4. 🔀 Merged PR #2 in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/pull/2)
+5. 📥 Opened PR #2 in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/pull/2)
+6. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/370eccdee5fde741b996f04a5426fe5f95d1bdec)
+7. 🎉 Created a new branch main in a private repository
+8. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/43915de4a2bfca0046e3fd05a2eae9f98ac838ea)
+9. 📝 Committed to main in [fcalderon91/fcalderon91](https://github.com/fcalderon91/fcalderon91/commit/4fa02abcbafae2146aceb1270151e3c444c2dac8)
+10. 📝 Committed to main in [fcalderon91/ThirdRepo](https://github.com/fcalderon91/ThirdRepo/commit/cdb6d4e6d1052060fc53ca3c8d386d7bb6e73fef)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
