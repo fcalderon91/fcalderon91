@@ -14,16 +14,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch learning-codeql in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql)
-2. 📝 Committed to main in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/commit/6deb487290d64df6b3ef66647979f18f34310264)
-3. 🗑️ Deleted a branch update-game in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests)
-4. 🎉 Created a new branch main in [fcalderon91/skills-getting-started-with-github-copilot](https://github.com/fcalderon91/skills-getting-started-with-github-copilot/tree/main)
-5. 🎉 Created a new branch main in [fcalderon91/skills-introduction-to-git](https://github.com/fcalderon91/skills-introduction-to-git/tree/main)
-6. 🔀 Merged PR #2 in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown/pull/2)
-7. 📥 Opened PR #2 in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown/pull/2)
-8. 📝 Committed to start-blog in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown/commit/6399062f8ca860c39898960bcf626da4fb485797)
-9. 📝 Committed to main in [fcalderon91/skills-getting-started-with-github-copilot](https://github.com/fcalderon91/skills-getting-started-with-github-copilot/commit/04a0a28570772c4f9faa3141b3645e30419011b4)
-10. 🗣 Commented on issue #1 in [fcalderon91/skills-code-with-codespaces](https://github.com/fcalderon91/skills-code-with-codespaces/issues/1#issuecomment-6254351233)
+1. 📝 Committed to accelerate-with-copilot in [fcalderon91/skills-getting-started-with-github-copilot](https://github.com/fcalderon91/skills-getting-started-with-github-copilot/commit/cd289fd9b8d9845809b066896af92ca1a34efee1)
+2. 📝 Committed to accelerate-with-copilot in [fcalderon91/skills-getting-started-with-github-copilot](https://github.com/fcalderon91/skills-getting-started-with-github-copilot/commit/1664be735c3c82afe2938677332e2b60ec893a07)
+3. 📝 Committed to main in [fcalderon91/skills-introduction-to-github](https://github.com/fcalderon91/skills-introduction-to-github/commit/8bdcf38da27f2f07fa37bea37f8ab87ea25bca86)
+4. 🗑️ Deleted a branch learning-codeql in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql)
+5. 📝 Committed to main in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/commit/6deb487290d64df6b3ef66647979f18f34310264)
+6. 🗑️ Deleted a branch update-game in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests)
+7. 🎉 Created a new branch main in [fcalderon91/skills-getting-started-with-github-copilot](https://github.com/fcalderon91/skills-getting-started-with-github-copilot/tree/main)
+8. 🎉 Created a new branch main in [fcalderon91/skills-introduction-to-git](https://github.com/fcalderon91/skills-introduction-to-git/tree/main)
+9. 🔀 Merged PR #2 in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown/pull/2)
+10. 📥 Opened PR #2 in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown/pull/2)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
