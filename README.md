@@ -14,16 +14,16 @@
 ## :zap:Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch accelerate-with-copilot in [fcalderon91/skills-getting-started-with-github-copilot](https://github.com/fcalderon91/skills-getting-started-with-github-copilot/tree/accelerate-with-copilot)
-2. 📝 Committed to main in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/commit/e1374733dcdf235d86a95d4a1006d34fb668a4c9)
-3. 🎉 Created a new branch learning-codeql in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/tree/learning-codeql)
-4. 🎉 Created a new branch main in [fcalderon91/skills-secure-repository-supply-chain](https://github.com/fcalderon91/skills-secure-repository-supply-chain/tree/main)
-5. 📝 Committed to main in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/commit/b42d405f526ab9fc5804e9eb39358a28046e949a)
-6. 🎉 Created a new branch main in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/tree/main)
-7. 🗑️ Deleted a branch start-blog in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown)
-8. 📝 Committed to main in [fcalderon91/skills-code-with-codespaces](https://github.com/fcalderon91/skills-code-with-codespaces/commit/0728517520c6fc6c6fbc24c999d9622d08b874b8)
-9. 🎉 Created a new branch start-blog in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown/tree/start-blog)
-10. 🎉 Created a new branch main in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown/tree/main)
+1. 📝 Committed to main in [fcalderon91/skills-code-with-codespaces](https://github.com/fcalderon91/skills-code-with-codespaces/commit/e4a6d078eb20d7eaf659f0d508e0eb8396ab2bc9)
+2. 📝 Committed to main in [fcalderon91/skills-secure-repository-supply-chain](https://github.com/fcalderon91/skills-secure-repository-supply-chain/commit/ed096d28e4dccbdc0524c5d5934239cb1c10749d)
+3. 🎉 Created a new branch main in [fcalderon91/skills-code-with-codespaces](https://github.com/fcalderon91/skills-code-with-codespaces/tree/main)
+4. 🎉 Created a new branch accelerate-with-copilot in [fcalderon91/skills-getting-started-with-github-copilot](https://github.com/fcalderon91/skills-getting-started-with-github-copilot/tree/accelerate-with-copilot)
+5. 📝 Committed to main in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/commit/e1374733dcdf235d86a95d4a1006d34fb668a4c9)
+6. 🎉 Created a new branch learning-codeql in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/tree/learning-codeql)
+7. 🎉 Created a new branch main in [fcalderon91/skills-secure-repository-supply-chain](https://github.com/fcalderon91/skills-secure-repository-supply-chain/tree/main)
+8. 📝 Committed to main in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/commit/b42d405f526ab9fc5804e9eb39358a28046e949a)
+9. 🎉 Created a new branch main in [fcalderon91/skills-review-pull-requests](https://github.com/fcalderon91/skills-review-pull-requests/tree/main)
+10. 🗑️ Deleted a branch start-blog in [fcalderon91/skills-communicate-using-markdown](https://github.com/fcalderon91/skills-communicate-using-markdown)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
