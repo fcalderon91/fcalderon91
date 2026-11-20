@@ -16,9 +16,6 @@
 <!--START_SECTION:activity-->
 1. 📝 Committed to main in a private repository
 2. Created a private repository
-3. 📝 Committed to main in [fcalderon91/skills-code-with-codespaces](https://github.com/fcalderon91/skills-code-with-codespaces/commit/e4a6d078eb20d7eaf659f0d508e0eb8396ab2bc9)
-4. 📝 Committed to main in [fcalderon91/skills-secure-repository-supply-chain](https://github.com/fcalderon91/skills-secure-repository-supply-chain/commit/ed096d28e4dccbdc0524c5d5934239cb1c10749d)
-5. 🎉 Created a new branch main in [fcalderon91/skills-code-with-codespaces](https://github.com/fcalderon91/skills-code-with-codespaces/tree/main)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
