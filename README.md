@@ -19,8 +19,6 @@
 3. 📝 Committed to main in [fcalderon91/skills-code-with-codespaces](https://github.com/fcalderon91/skills-code-with-codespaces/commit/e4a6d078eb20d7eaf659f0d508e0eb8396ab2bc9)
 4. 📝 Committed to main in [fcalderon91/skills-secure-repository-supply-chain](https://github.com/fcalderon91/skills-secure-repository-supply-chain/commit/ed096d28e4dccbdc0524c5d5934239cb1c10749d)
 5. 🎉 Created a new branch main in [fcalderon91/skills-code-with-codespaces](https://github.com/fcalderon91/skills-code-with-codespaces/tree/main)
-6. 🎉 Created a new branch accelerate-with-copilot in [fcalderon91/skills-getting-started-with-github-copilot](https://github.com/fcalderon91/skills-getting-started-with-github-copilot/tree/accelerate-with-copilot)
-7. 📝 Committed to main in [fcalderon91/skills-introduction-to-codeql](https://github.com/fcalderon91/skills-introduction-to-codeql/commit/e1374733dcdf235d86a95d4a1006d34fb668a4c9)
 <!--END_SECTION:activity-->
 
 ## 🛠️ Tech Stack
